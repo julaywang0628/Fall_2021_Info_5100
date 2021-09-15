@@ -12,8 +12,6 @@ public class Main {
         System.out.println("Min is " +min);
 
 
-
-
     }
 
 }
