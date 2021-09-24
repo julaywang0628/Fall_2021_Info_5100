@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-	    //Question 1
+	//Question 1
         //case 1
         int[] nums1 = {1, 2, 3, 2};
         questionOne(nums1);
@@ -141,7 +141,7 @@ public class Main {
         }
 
         for(int i = 0; i < str.length() - 1; i++) {
-            if ((Integer.valueOf(str.charAt(i))< 58 && Integer.valueOf(str.charAt(i + 1)) <58)
+            if ((Integer.valueOf(str.charAt(i))< 58 && Integer.valueOf(str.charAt(i + 1)) < 58)
                 || (Integer.valueOf(str.charAt(i)) >= 65 && Integer.valueOf(str.charAt(i + 1)) >= 65)) {
                 return false;
             }
