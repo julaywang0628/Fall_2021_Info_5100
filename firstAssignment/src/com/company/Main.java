@@ -141,8 +141,8 @@ public class Main {
         }
 
         for(int i = 0; i < str.length() - 1; i++) {
-            if ((Integer.valueOf(str.charAt(i))< 58 && Integer.valueOf(str.charAt(i + 1)) <58)
-                || (Integer.valueOf(str.charAt(i)) >= 65 && Integer.valueOf(str.charAt(i + 1)) >= 65)) {
+            if ((int)str.charAt(i)< 58 && (int) str.charAt(i + 1) < 58
+                || (int) str.charAt(i) >= 65 && (int) str.charAt(i + 1) >= 65) {
                 return false;
             }
         }
