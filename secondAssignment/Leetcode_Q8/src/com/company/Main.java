@@ -15,11 +15,12 @@ public class Main {
     }
 
     public static boolean isPalindrome(String s) {
+        s = s.toLowerCase();
         char[] chars = s.toCharArray();
         StringBuilder target = new StringBuilder();
         for(char ch : chars) {
             if(Character.isLetterOrDigit(ch)) {
-                target.append(Character.toLowerCase(ch));
+                target.append(ch);
             }
         }
         int i = 0, j = target.length() - 1;
