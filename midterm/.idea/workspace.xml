@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bded0cb4-f63e-4613-b10d-4ab7f3411a9d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midtern/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midtern/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midtern/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midtern/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midtern/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midtern/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midtern/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../midtern/untitled104.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="bded0cb4-f63e-4613-b10d-4ab7f3411a9d" name="Default Changelist" comment="new" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,10 +75,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Midterm" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Midterm" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -100,15 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,7 +109,23 @@
       <option name="presentableId" value="Default" />
       <updated>1635277839378</updated>
       <workItem from="1635277840551" duration="42000" />
+      <workItem from="1635278307967" duration="708000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1635278370388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635278370388</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new">
+      <created>1635278389145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635278389145</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,5 +141,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="midterm" />
+    <MESSAGE value="update" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
 </project>
