@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2bfcbd7-fb28-4680-9dea-81f715e49787" name="Default Changelist" comment="" />
+    <list default="true" id="bded0cb4-f63e-4613-b10d-4ab7f3411a9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtern/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtern/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtern/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtern/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtern/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtern/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtern/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../midtern/untitled104.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="203eCEdYTPUXaVUsSNvhFKOcWuV" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="203ekEpnMqMQ5ovcIJhkoVBtYTU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -68,13 +85,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="MidTerm" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Midterm" />
+      <module name="Midterm" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -82,13 +100,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,12 +117,27 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f2bfcbd7-fb28-4680-9dea-81f715e49787" name="Default Changelist" comment="" />
-      <created>1635277568532</created>
+      <changelist id="bded0cb4-f63e-4613-b10d-4ab7f3411a9d" name="Default Changelist" comment="" />
+      <created>1635277839378</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1635277568532</updated>
+      <updated>1635277839378</updated>
+      <workItem from="1635277840551" duration="42000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
